@@ -7,8 +7,8 @@ I'm a sophomore computer science student with a passion for coding and learning 
 - 🎓 Major/Field: computer science (specifing in artificial intelligence next year)
 - 🔭 Current Project: e-commerce web application [FRNTR]
 - 🌱 Learning: Web Development - MERN STACK
-- 📫 Contact: farahhany107@gmail.com
-- ⚡ Fun Fact: 
+- 📫 Contact: farahhany107@gmail.com 
+
 
 # Skills
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
