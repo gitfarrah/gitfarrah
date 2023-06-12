@@ -5,8 +5,9 @@ I'm a sophomore computer science student with a passion for coding and learning 
 # About Me
 
 - 🎓 Major/Field: computer science (specifing in artificial intelligence next year)
-- 🔭 Current Project: e-commerce web application [FRNTR]
+- 🔭 Current Project: e-commerce web application [FRNTR] 
 - 🌱 Learning: Web Development - MERN STACK
+- 🥇 Won best project for my [https://frntr.store/] web application
 - 📫 Contact: farahhany107@gmail.com 
 
 
