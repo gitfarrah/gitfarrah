@@ -8,7 +8,7 @@ I'm a sophomore computer science student with a passion for coding and learning 
 - 🔭 Current Project: e-commerce web application [FRNTR] 
 - 🌱 Learning: Web Development - MERN STACK
 - 🥇 Won best project for my [https://frntr.store/] web application
-- 📫 Contact: farahhany107@gmail.com 
+- 📫 Contact: farah2102625@miuegypt.edu.eg
 
 
 # Skills
