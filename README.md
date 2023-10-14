@@ -28,6 +28,7 @@ I'm a junior computer science student with a passion for coding and learning new
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-00599C?style=flat-square&logo=angular&logoColor=white)
 
 
 # Connect with me
