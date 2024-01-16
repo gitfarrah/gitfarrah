@@ -4,9 +4,9 @@ I'm a junior computer science student with a passion for coding and learning new
 
 # About Me
 
-- 🎓 Major/Field: computer science (specifing in artificial intelligence next year)
-- 🔭 Current Project: e-commerce web application [FRNTR] 
-- 🌱 Learning: Web Development - MERN STACK
+- 🎓 Major/Field: computer science specified in Artificial Intelligence
+- 🔭 Current : ML Intern at Prodigy InfoTech and CodSoft
+- 🌱 Learning: Artificial Intelligence / Machine Learning
 - 🥇 Won best project for my [https://frntr.store/] web application
 - 📫 Contact: farah2102625@miuegypt.edu.eg
 
