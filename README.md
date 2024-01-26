@@ -7,7 +7,7 @@ I'm a junior computer science student with a passion for coding and learning new
 - 🎓 Major/Field: computer science specified in Artificial Intelligence
 - 🔭 Current : ML Intern at Prodigy InfoTech and CodSoft
 - 🌱 Learning: Artificial Intelligence / Machine Learning
-- 🥇 Won best project for my [https://frntr.store/] web application
+- 🥇 Won best project for my [https://frntr.store/] web application || Best Bank Management System using Java
 - 📫 Contact: farah2102625@miuegypt.edu.eg
 
 
