@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Farrah Abdelrahman
 
-I'm a junior computer science student with a passion for coding and learning new technologies , eagerly looking forward to the opportunities and experiences the future holds . Currently studing at MIU , I'm excited to explore the diverse landscape of computer science and develop my skills.
+I'm a senior computer science student with a passion for coding and learning new technologies, eagerly looking forward to the opportunities and experiences the future holds . Currently studing at MIU , I'm excited to explore the diverse landscape of computer science and develop my skills.
 
 # About Me
 
