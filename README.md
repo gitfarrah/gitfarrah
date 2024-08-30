@@ -89,6 +89,6 @@ I'm a senior computer science student passionate about coding and learning new t
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
   <a href="https://discordapp.com/users/768151393604993046" class="icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Discord_logo_2023.svg" alt="Discord" width="40" height="40"/>
 </a>
 </p>
