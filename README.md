@@ -8,7 +8,7 @@ I'm a senior computer science student passionate about coding and learning new t
 - 🔭 Current : ML Intern at Prodigy InfoTech and CodSoft
 - 🌱 Learning: Artificial Intelligence / Machine Learning
 - 🥇 Won best project for my [https://frntr.store/] web application || Best Bank Management System using Java
-- 📫 Contact: farah2102625@miuegypt.edu.eg
+- 📫 Contact: farah2102625@miuegypt.edu.eg || farahhany107@gmail.com
 
 # 🏆 My Projects 
 ### 📊 Data Science & Machine Learning
@@ -23,9 +23,9 @@ I'm a senior computer science student passionate about coding and learning new t
 
 
 ### 🌐 Web Development
-- <a href="https://github.com/nouranMo/FRNTR" color="black">**FRNTR E-commerce Web Application**</a>  
+- <a href="https://github.com/nouranMo/FRNTR">**FRNTR E-commerce Web Application**</a>  
   A MERN stack furniture web app for browsing and purchasing furniture was awarded Best Web Application at MIU 2023.
-- <a href="https://github.com/mennaemam12/Carmel-California"color="black">**Carmel Calfornia Full Stack Restaurant Website**</a>
+- <a href="https://github.com/mennaemam12/Carmel-California"> **Carmel Calfornia Full Stack Restaurant Website** </a>
   A PHP-based website featuring a customizable salad menu, loyalty programs, and admin functionalities.
 
 
