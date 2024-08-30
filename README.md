@@ -23,8 +23,8 @@ I'm a senior computer science student passionate about coding and learning new t
 
 
 ### 🌐 Web Development
-- **FRNTR E-commerce Web Application**  
-  A MERN stack furniture web app for browsing and purchasing furniture awarded Best Web Application at MIU 2023.
+- <a href="https://github.com/mennaemam12/Carmel-California">**FRNTR E-commerce Web Application**</a>  
+  A MERN stack furniture web app for browsing and purchasing furniture was awarded Best Web Application at MIU 2023.
 - **Carmel Calfornia Full Stack Restaurant Website**  
   A PHP-based website featuring a customizable salad menu, loyalty programs, and admin functionalities.
 
