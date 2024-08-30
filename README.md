@@ -22,7 +22,7 @@ I'm a senior computer science student passionate about coding and learning new t
   Implemented 6 models on two chosen datasets and contributed to its research paper.
 
 
-  ### 🌐 Web Development
+### 🌐 Web Development
 - **FRNTR E-commerce Web Application**  
   A MERN stack furniture web app for browsing and purchasing furniture awarded Best Web Application at MIU 2023.
 - **Carmel Calfornia Full Stack Restaurant Website**  
@@ -86,5 +86,8 @@ I'm a senior computer science student passionate about coding and learning new t
   </a>
   <a href="https://github.com/gitfarrah">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://discordapp.com/users/768151393604993046">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
   </a>
 </p>
