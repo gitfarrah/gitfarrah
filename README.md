@@ -1,12 +1,10 @@
 # Hi there 👋, I'm Farrah Abdelrahman
 
-I'm a senior computer science student passionate about coding and learning new technologies, eagerly looking forward to future opportunities and experiences. Currently studying at MIU, I'm excited to explore the diverse landscape of computer science and develop my skills.
+I'm a senior computer science student passionate about AI and learning new technologies, and I eagerly look forward to future opportunities and experiences. Currently studying at MIU, I'm excited to explore the diverse landscape of computer science and develop my skills.
 
-# About Me
+# 🔭 About Me
 
 - 🎓 Major/Field: computer science specified in Artificial Intelligence
-- 🔭 Current : ML Intern at Prodigy InfoTech and CodSoft
-- 🌱 Learning: Artificial Intelligence / Machine Learning
 - 🥇 Won best project for my [https://frntr.store/] web application || Best Bank Management System using Java
 - 📫 Contact: farah2102625@miuegypt.edu.eg || farahhany107@gmail.com
 
@@ -85,7 +83,4 @@ I'm a senior computer science student passionate about coding and learning new t
   <a href="https://www.linkedin.com/in/farrah-hany-088426277">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/gitfarrah" class="icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
 </p>
