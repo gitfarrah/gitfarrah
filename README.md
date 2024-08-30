@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Farrah Abdelrahman
 
-I'm a senior computer science student with a passion for coding and learning new technologies, eagerly looking forward to the opportunities and experiences the future holds . Currently studing at MIU, I'm excited to explore the diverse landscape of computer science and develop my skills.
+I'm a senior computer science student passionate about coding and learning new technologies, eagerly looking forward to future opportunities and experiences. Currently studying at MIU, I'm excited to explore the diverse landscape of computer science and develop my skills.
 
 # About Me
 
@@ -10,9 +10,43 @@ I'm a senior computer science student with a passion for coding and learning new
 - 🥇 Won best project for my [https://frntr.store/] web application || Best Bank Management System using Java
 - 📫 Contact: farah2102625@miuegypt.edu.eg
 
-# My Projects 
+# 🏆 My Projects 
+### 📊 Data Science & Machine Learning
+- **Store Sales Forecasting**  
+  A project forecasting retail store sales using six different ML models.
+- **Loan Completion Status Classification**  
+  A classification model to predict loan completion status using six ML algorithms.
+- **Energy Consumption Prediction**  
+  Predicts energy consumption using a polynomial regression model, providing insights into usage patterns after data preprocessing and cross-validation.
+- **Fake Credit Card Detection**  
+  Implemented 6 models on two chosen datasets and contributed to its research paper.
 
-## 🛠️ Skills
+
+  ### 🌐 Web Development
+- **FRNTR E-commerce Web Application**  
+  A MERN stack furniture web app for browsing and purchasing furniture awarded Best Web Application at MIU 2023.
+- **Carmel Calfornia Full Stack Restaurant Website**  
+  A PHP-based website featuring a customizable salad menu, loyalty programs, and admin functionalities.
+
+
+
+ ### 🖼️ Computer Vision & Image Processing
+- **Vegetables and Fruits Recognition**  
+  An image processing project to classify vegetables and fruits using color segmentation.
+- **Genetic Algorithm for Image Compression**  
+  A Python project that uses a genetic algorithm to compress images while retaining quality, optimizing parameters through crossover and mutation techniques.
+
+
+### 💻 Data Structures & OOP
+- **Bank Management System**  
+  OOP application simulating basic banking operations with a user-friendly interface for managing accounts and transactions using Java and JavaFX.
+- **Rat In A Maze**  
+  A C++ program that uses backtracking and state space tree algorithms to find the shortest path in a maze.
+
+
+
+
+# 🛠️ Skills
 
 ### Languages
 <p>
@@ -44,7 +78,13 @@ I'm a senior computer science student with a passion for coding and learning new
 
 
 
-# Connect with me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/farrah-hany-088426277)
-[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github)](https://github.com/gitfarrah)
+<p>
+  <a href="https://www.linkedin.com/in/farrah-hany-088426277">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/gitfarrah">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
