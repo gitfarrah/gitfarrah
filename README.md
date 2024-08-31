@@ -17,8 +17,7 @@ I'm a senior computer science student passionate about AI and learning new techn
 - **Energy Consumption Prediction**  
   Predicts energy consumption using a polynomial regression model, providing insights into usage patterns after data preprocessing and cross-validation.
 - **Fake Credit Card Detection**  
-  Implemented 6 models on two chosen datasets and contributed to its research paper, which made it to the IMSA2024 conference.
-
+  Implemented six models on two selected datasets and contributed to the research paper, which was accepted for presentation at the IMSA 2024 conference.
 
 ### 🌐 Web Development
 - <a href="https://github.com/nouranMo/FRNTR">**FRNTR E-commerce Web Application**</a>  
