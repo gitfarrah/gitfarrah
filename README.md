@@ -29,16 +29,16 @@ I'm a senior computer science student passionate about AI and learning new techn
 
 
  ### 🖼️ Computer Vision & Image Processing
-- **Vegetables and Fruits Recognition**  
+- <a href="https://github.com/gitfarrah/Vegetables-and-Fruits-Recognition"> **Vegetables and Fruits Recognition**  </a>
   An image processing project to classify vegetables and fruits using color segmentation.
-- **Genetic Algorithm for Image Compression**  
+- <a href="https://github.com/gitfarrah/Image-Compression"> **Genetic Algorithm for Image Compression**  </a>
   A Python project that uses a genetic algorithm to compress images while retaining quality, optimizing parameters through crossover and mutation techniques.
 
 
 ### 💻 Data Structures & OOP
-- **Bank Management System**  
+- <a href="https://github.com/gitfarrah/Bank-System"> **Bank Management System** </a>
   OOP application simulating basic banking operations with a user-friendly interface for managing accounts and transactions using Java and JavaFX.
-- **Rat In A Maze**  
+- <a href="https://github.com/gitfarrah/Rat-In-A-Maze"> **Rat In A Maze**  </a>
   A C++ program that uses backtracking and state space tree algorithms to find the shortest path in a maze.
 
 
