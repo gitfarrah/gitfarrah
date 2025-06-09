@@ -4,7 +4,7 @@ I'm a senior computer science student passionate about AI and learning new techn
 
 # 🔭 About Me
 
-- 🎓 Major/Field: computer science specified in Artificial Intelligence
+- 🎓 Major/Field: computer science specialized in Artificial Intelligence
 - 🥇 Won best project for my [https://frntr.store/] web application || Best Bank Management System using Java
 - 📫 Contact: farah2102625@miuegypt.edu.eg || farahhany107@gmail.com
 
