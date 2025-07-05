@@ -19,7 +19,7 @@ I'm a fresh Computer Science graduate from MIU, specialized in Artificial Intell
   *Tech Stack*: Flutter, Firebase, TensorFlow (object recognition), Text-to-Speech.
 
 ### 🧠 Neuromarketing (Graduation Project)
-- **[Neuromarketing EEG Signal Analysis] (https://github.com/gitsolsol/Neuromarketing)**  
+- **[Neuromarketing EEG Signal Analysis](https://github.com/gitsolsol/Neuromarketing)**  
   A system analyzing EEG signals to predict consumer preferences (like/dislike) using machine learning models. Integrated a Flask server for predictions, with preprocessing scripts for EEG data and a React-based frontend for campaign stats visualization.  
   *Tech Stack*: Python, Flask, React, MongoDB, SciPy, NumPy.
 
@@ -82,7 +82,6 @@ I'm a fresh Computer Science graduate from MIU, specialized in Artificial Intell
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit_learn/scikit_learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
